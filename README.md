@@ -12,6 +12,8 @@ i like making friends! but i can be a little shy maybe
   <summary>music i like</summary>
 
   a tribe called quest
+
+  del the funky homosapien
   
   elliott smith
   
@@ -29,4 +31,6 @@ i like making friends! but i can be a little shy maybe
 
 <sub>this is so bare bones sorry. because ive already been trying to code my own fleshed out site for 342159221 years</sub>
 
-![](https://file.garden/aDVhE48XjQhuhQlj/site/stamp/hellbenders.gif) ![](https://file.garden/aKWubMu4gl9vV2_v/stamps/rla/pb87aj.gif) ![](https://file.garden/aKWubMu4gl9vV2_v/stamps/jcr/o3xl7h.gif) ![](https://file.garden/aKWubMu4gl9vV2_v/stamps/jcr/7c8ely.webp) ![](https://file.garden/aKWubMu4gl9vV2_v/stamps/jng/cysttu.jpg) ![](https://file.garden/aDVhE48XjQhuhQlj/site/stamp/dave-epic-fail.gif) ![](https://file.garden/aDVhE48XjQhuhQlj/site/stamp/da-roach-dogg-jr.png) ![](https://file.garden/aDVhE48XjQhuhQlj/site/stamp/apocalypsearisen-fan.jpeg)
+<p align="center">
+<img src="https://file.garden/aDVhE48XjQhuhQlj/site/stamp/hellbenders.gif"> <img src="https://file.garden/aKWubMu4gl9vV2_v/stamps/rla/pb87aj.gif"> <img src="https://file.garden/aKWubMu4gl9vV2_v/stamps/jcr/o3xl7h.gif"> <img src="https://file.garden/aKWubMu4gl9vV2_v/stamps/jcr/7c8ely.webp"> <img src="https://file.garden/aKWubMu4gl9vV2_v/stamps/jng/cysttu.jpg"> <img src="https://file.garden/aDVhE48XjQhuhQlj/site/stamp/dave-epic-fail.gif"> <img src="https://file.garden/aDVhE48XjQhuhQlj/site/stamp/da-roach-dogg-jr.png"> <img src="https://file.garden/aDVhE48XjQhuhQlj/site/stamp/apocalypsearisen-fan.jpeg"> <img src="https://file.garden/aDVhE48XjQhuhQlj/site/stamp/dempsey.gif"> <img src="https://file.garden/aDVhE48XjQhuhQlj/mine/stamp/zombies.png"> <img src="https://files.catbox.moe/pi2i6f.png"> <img src="https://files.catbox.moe/kl4iay.png"> <img src="https://files.catbox.moe/xpbxgi.png"> <img src="https://files.catbox.moe/zaj612.png"> <img src="https://file.garden/aDVhE48XjQhuhQlj/site/stamp/tg-fan.png"> <img src="https://file.garden/aDVhE48XjQhuhQlj/site/stamp/avgn-vs-nc.gif"> <img src="https://files.catbox.moe/l3k0nj.png">
+</p>
